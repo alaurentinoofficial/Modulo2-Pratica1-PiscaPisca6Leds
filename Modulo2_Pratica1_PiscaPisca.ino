@@ -120,4 +120,4 @@ void SequenciaDois(int SecondDelay)
 
   digitalWrite(ledF,LOW);
   Pdelay(SecondDelay);
-
+}
